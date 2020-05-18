@@ -1,8 +1,11 @@
 # Getting-and-Cleaning-data-final-project
 
+
 This is the final project for Coursera course "Getting and Cleaning data".
 
+
 Basically, it is a data collected by UCI, and is about an experiment set to test the wearable devices of Samsung.
+
 
 In the R script "run_analysis.R", I: 
 
@@ -18,8 +21,11 @@ In the R script "run_analysis.R", I:
 
 Also, I have comments in the script to guide you in case you need some detailed information 
 
+
 In the output.txt, you will find a tidy data set with the average of each variable for each activity and each subject.
 
+
 If you have difficulty in understanding the meaning of variable, you can find some instructions in codebook.
+
 
 Hope you enjoy it!
