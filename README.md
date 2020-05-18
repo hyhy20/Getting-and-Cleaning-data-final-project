@@ -17,7 +17,7 @@ In the R script "run_analysis.R", I:
 
     4.Appropriately labels the data set with descriptive variable names.
 
-    5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and         each subject.
+    5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Also, I have comments in the script to guide you in case you need some detailed information 
 
